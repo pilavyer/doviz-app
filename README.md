@@ -1,2 +1,0 @@
-# doviz-app
-currency converter
